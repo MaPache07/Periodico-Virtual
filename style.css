@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+
+html {
+    background-color: #dfdfdf;
+}
+
+.titulo {
+    color: #ffffff;
+    background-color: #2f343a;
+    height: 150px;
+}
+
+h1 {
+    color: #dfdfdf;
+    font-size: 50px;
+}
+
+a {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
